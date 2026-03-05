@@ -14,7 +14,7 @@ Aplicativo desktop desenvolvido em JavaFX que realiza conversões entre diferent
 - RGB → RGB Normalizado
 
 ### Screenshot
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
 
 ### Tecnologias utilizadas
 - Java 21
