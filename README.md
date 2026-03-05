@@ -41,7 +41,7 @@ Desktop application developed in JavaFX that converts between different color sp
 - RGB → Normalized RGB
 
 ### Screenshot
-> *(add an app screenshot here)*
+![screenshot](Screenshot.jpg)
 
 ### Technologies used
 - Java 21
