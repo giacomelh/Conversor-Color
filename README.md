@@ -24,14 +24,10 @@ Aplicativo desktop desenvolvido em JavaFX que realiza conversões entre diferent
 - Maven
 
 ### Como rodar
-1. Clone o repositório:
-   ```
-   git clone https://github.com/giacomelh/Conversor-Color.git
-   ```
-2. Abra o projeto no IntelliJ IDEA
-3. Execute a classe `Launcher.java`
+**Executável (sem precisar de Java)**
+1. Baixe a pasta `ConversorCores` do repositório
+2. Abra a pasta e clique duas vezes em `ConversorCores.exe`
 
----
 
 ## 🇺🇸 English
 
@@ -55,12 +51,9 @@ Desktop application developed in JavaFX that converts between different color sp
 - Maven
 
 ### How to run
-1. Clone the repository:
-   ```
-   git clone https://github.com/giacomelh/Conversor-Color.git
-   ```
-2. Open the project in IntelliJ IDEA
-3. Run the `Launcher.java` class
+**Executable (no Java required)**
+1. Download the `ConversorCores` folder from the repository
+2. Open the folder and double-click `ConversorCores.exe`
 
 ---
 
